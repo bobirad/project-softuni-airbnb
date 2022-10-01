@@ -1,0 +1,25 @@
+{
+  "name": "project-softuni-airbnb",
+  "version": "1.0.0",
+  "description": "airbnb clone",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobirad/project-softuni-airbnb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobirad/project-softuni-airbnb/issues"
+  },
+  "homepage": "https://github.com/bobirad/project-softuni-airbnb#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "nodemon": "^2.0.20"
+  }
+}
